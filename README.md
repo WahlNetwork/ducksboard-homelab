@@ -1,7 +1,11 @@
 PowerShell Collector for Ducksboard
 ==================
 
-If you're running a home lab and want a Ducksboard dashboard [such as mine](https://public.ducksboard.com/ghKNTfxs_C-psVCY9iue/), this project might be of some use to you. I'm going to assume that you've already made a dashboard on Ducksboard, have made some widgets, and understand the basics of making POST calls to an API via PowerShell 3.0 or higher.
+If you're running a home lab and want a Ducksboard dashboard [such as mine](https://public.ducksboard.com/ghKNTfxs_C-psVCY9iue/), this project might be of some use to you.
+
+![](https://github.com/WahlNetwork/ducksboard-homelab/blob/screenshots/ducksboard-dashboard.jpg)
+
+I'm going to assume that you've already made a dashboard on Ducksboard, have made some widgets, and understand the basics of making POST calls to an API via PowerShell 3.0 or higher.
 
 The basic steps:
 
